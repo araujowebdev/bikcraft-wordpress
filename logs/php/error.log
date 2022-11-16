@@ -1,0 +1,44 @@
+[16-Nov-2022 20:03:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TEMPLATE" in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php:8
+Stack trace:
+#0 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-blog-header.php(19): require_once('/home/raphael/D...')
+#2 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/index.php(17): require('/home/raphael/D...')
+#3 {main}
+  thrown in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php on line 8
+[16-Nov-2022 20:03:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TEMPLATE" in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php:8
+Stack trace:
+#0 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-blog-header.php(19): require_once('/home/raphael/D...')
+#2 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/index.php(17): require('/home/raphael/D...')
+#3 {main}
+  thrown in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php on line 8
+[16-Nov-2022 20:03:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TEMPLATE" in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php:8
+Stack trace:
+#0 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-blog-header.php(19): require_once('/home/raphael/D...')
+#2 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/index.php(17): require('/home/raphael/D...')
+#3 {main}
+  thrown in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php on line 8
+[16-Nov-2022 20:03:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TEMPLATE" in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php:8
+Stack trace:
+#0 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-blog-header.php(19): require_once('/home/raphael/D...')
+#2 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/index.php(17): require('/home/raphael/D...')
+#3 {main}
+  thrown in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php on line 8
+[16-Nov-2022 20:04:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TEMPLATE" in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php:8
+Stack trace:
+#0 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-blog-header.php(19): require_once('/home/raphael/D...')
+#2 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/index.php(17): require('/home/raphael/D...')
+#3 {main}
+  thrown in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php on line 8
+[16-Nov-2022 20:04:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TEMPLATE" in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php:8
+Stack trace:
+#0 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-blog-header.php(19): require_once('/home/raphael/D...')
+#2 /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/index.php(17): require('/home/raphael/D...')
+#3 {main}
+  thrown in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php on line 8
+[16-Nov-2022 20:05:26 UTC] PHP Warning:  include(/home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraftHello, John!): Failed to open stream: No such file or directory in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php on line 8
+[16-Nov-2022 20:05:26 UTC] PHP Warning:  include(): Failed opening '/home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraftHello, John!' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/raphael/Documentos/GitHub/Projetos/10-WordPress/bikcraft/app/public/wp-content/themes/bikcraft/page-contato.php on line 8
