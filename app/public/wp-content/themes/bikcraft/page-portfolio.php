@@ -9,7 +9,17 @@
 
   <section class="container animar-interno">
     <ul class="rslides">
+
+    <?php if(have_rows('quote_portfolio')) : while(have_rows('quote_portfolio')) : the_row(); ?>
       <li>
+        <blockquote class="quote_clientes">
+          <?php the_sub_field('quote'); ?>
+          <cite><?php the_sub_field('nome_quote'); ?></cite>
+        </blockquote>
+      </li>
+      <?php endwhile; else : endif; ?>
+      
+      <!-- <li>
         <blockquote class="quote_clientes">
           <p>
             “Pedalar sempre foi a minha paixão, o que o pessoal da Bikcraft
@@ -18,9 +28,8 @@
           </p>
           <cite>Barbara Moss</cite>
         </blockquote>
-      </li>
-
-      <li>
+      </li> -->
+      <!-- <li>
         <blockquote class="quote_clientes">
           <p>
             “Nada melhor do que dar um rolê com a minha Bikcraft na orla. Essa
@@ -40,7 +49,7 @@
           </p>
           <cite>Bernardo</cite>
         </blockquote>
-      </li>
+      </li> -->
     </ul>
   </section>
 
