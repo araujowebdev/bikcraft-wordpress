@@ -1,10 +1,10 @@
-/* 
+/*
 Theme Name: Bikcraft
 Theme URI: http://bikcraft.com
 Author: Origamid
 Author URI: http://origamid.com/
 Description: Tema criado para a Bikcraft
-Vesion: 1.0
+Version: 1.0
 */
 
 @import "css/normalize.css";
@@ -14,6 +14,7 @@ Vesion: 1.0
 @import "css/produtos.css";
 @import "css/portfolio.css";
 @import "css/contato.css";
+@import "css/blog.css";
 
 /* Estilos Gerais */
 
@@ -242,7 +243,7 @@ img {
 }
 
 .produtos_lista a {
-  color: black;
+  color: #000;
 }
 
 .produtos_lista li h3 {
@@ -479,6 +480,7 @@ img {
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
 }
+
 /*Estilo para tablets*/
 @media only screen and (min-width: 768px) and (max-width: 959px) {
   /*Qualidade Home*/
@@ -558,7 +560,7 @@ img {
     border-color: #fff;
   }
 
-  .current_page_item {
+  .header_menu ul li a.menu_ativo {
     border-color: #fff;
   }
 
