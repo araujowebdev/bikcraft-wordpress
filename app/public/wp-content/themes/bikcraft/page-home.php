@@ -15,11 +15,13 @@
   <style>
     .introducao {
       background: url("<?php echo $background_large[0] ?>") no-repeat center;
+      background-size: cover;
     }
-
+    
     @media only screen and (max-width: 768px) {
       .introducao {
         background: url("<?php echo $background_medium[0] ?>") no-repeat center;
+        background-size: cover;
       }
     }
   </style>
