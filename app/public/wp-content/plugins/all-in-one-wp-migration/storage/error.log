@@ -1,0 +1,3 @@
+Nov 17 2022 22:38:14
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/home\/raphael\/Documentos\/GitHub\/Projetos\/10-WordPress\/bikcraft\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/export\/class-ai1wm-export-config.php","Line":164}
+
